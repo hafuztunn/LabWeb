@@ -1,0 +1,2257 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>muhammad omar</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Windows User</o:LastAuthor>
+  <o:Revision>168</o:Revision>
+  <o:TotalTime>537</o:TotalTime>
+  <o:Created>2019-04-03T05:21:00Z</o:Created>
+  <o:LastSaved>2021-02-13T22:19:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>572</o:Words>
+  <o:Characters>3262</o:Characters>
+  <o:Company>Hewlett-Packard</o:Company>
+  <o:Lines>27</o:Lines>
+  <o:Paragraphs>7</o:Paragraphs>
+  <o:CharactersWithSpaces>3827</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=dataStoreItem href="index_files/item0018.xml"
+target="index_files/props019.xml">
+<link rel=themeData href="index_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:DocumentVariables>
+   <w:__Grammarly_42____i>H4sIAAAAAAAEAKtWckksSQxILCpxzi/NK1GyMqwFAAEhoTITAAAA</w:__Grammarly_42____i>
+   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDa0tDA3MTIyMTI2NTK3MDJW0lEKTi0uzszPAykwMq8FAP81VHwtAAAA</w:__Grammarly_42___1>
+  </w:DocumentVariables>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Title;
+	mso-ansi-font-size:28.0pt;
+	mso-bidi-font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
+p.font8, li.font8, div.font8
+	{mso-style-name:font_8;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.Normal1, li.Normal1, div.Normal1
+	{mso-style-name:Normal1;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+span.color24
+	{mso-style-name:color_24;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:2057463210;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1713149420 67698689 372820856 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:·;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:87.75pt;
+	text-indent:-33.75pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1030"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=1309
+ style='width:981.85pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:66.55pt'>
+  <td width=248 valign=top style='width:186.25pt;padding:0in 5.4pt 0in 5.4pt;
+  height:66.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Baskerville Old Face",serif;mso-no-proof:
+  yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+   o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+   stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_9" o:spid="_x0000_i1034" type="#_x0000_t75"
+   alt="image001" style='width:159pt;height:59.25pt;visibility:visible;
+   mso-wrap-style:square'>
+   <v:imagedata src="index_files/image001.png" o:title="image001"/>
+  </v:shape><![endif]--><![if !vml]><img width=212 height=79
+  src="index_files/image002.png" alt=image001 v:shapes="Picture_x0020_9"><![endif]></span><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=836 style='width:626.7pt;background:#1F3864;mso-background-themecolor:
+  accent5;mso-background-themeshade:128;padding:0in 5.4pt 0in 5.4pt;height:
+  66.55pt'>
+  <p class=MsoTitle align=center style='text-align:center'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:26.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1;letter-spacing:0pt;mso-style-textoutline-type:
+  none;mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:
+  flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:
+  0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:
+  center;mso-style-textoutline-outlinestyle-compound:simple;mso-effects-shadow-color:
+  black;mso-effects-shadow-themecolor:dark1;mso-effects-shadow-alpha:40.0%;
+  mso-effects-shadow-dpiradius:3.0pt;mso-effects-shadow-dpidistance:1.5pt;
+  mso-effects-shadow-angledirection:2700000;mso-effects-shadow-align:topleft;
+  mso-effects-shadow-pctsx:100.0%;mso-effects-shadow-pctsy:100.0%;mso-effects-shadow-anglekx:
+  0;mso-effects-shadow-angleky:0'>Radio Frequency &amp; Integrated Circuits
+  Systems Lab </span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:26.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></b></p>
+  </td>
+  <td width=225 valign=top style='width:168.9pt;padding:0in 5.4pt 0in 5.4pt;
+  height:66.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:26.0pt;font-family:"Baskerville Old Face",serif;
+  mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8" o:spid="_x0000_i1033"
+   type="#_x0000_t75" alt="image003" style='width:186.75pt;height:61.5pt;
+   visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="index_files/image006.jpg" o:title="image003"/>
+  </v:shape><![endif]--><![if !vml]><img width=249 height=82
+  src="index_files/image007.jpg" alt=image003 v:shapes="Picture_x0020_8"><![endif]></span><span
+  style='font-size:26.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:413.05pt'>
+  <td width=248 valign=top style='width:186.25pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 align=left
+   style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+   mso-table-overlap:never;mso-yfti-tbllook:1184;mso-table-lspace:9.35pt;
+   margin-left:7.1pt;mso-table-rspace:9.35pt;margin-right:7.1pt;mso-table-tspace:
+   .1in;margin-top:4.95pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+   margin;mso-table-left:left;mso-table-top:133.95pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    mso-border-alt:solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:
+    accent1;mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;
+    height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="index.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Home</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:25.6pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:25.6pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="team.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Team</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="research.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Research</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="publication.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Patent &amp; Pub.</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="MS.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>ICD MS Programs</span></a> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Calibri;
+    color:white;mso-themecolor:background1'>ICD Grad. Diploma Program<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6;height:27.1pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:27.1pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="courses.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Courses</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:7;height:28.75pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:28.75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="facilities.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Lab Facilities</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:8;height:28.75pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:28.75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span class=MsoHyperlink><span
+    style='mso-bidi-font-family:Calibri;color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'><a href="job.htm"><span
+    style='font-size:16.0pt;font-family:"Baskerville Old Face",serif;
+    color:white;mso-themecolor:background1;text-decoration:none;text-underline:
+    none'>Open Positions</span></a></span></span><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:9;height:25.15pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:25.15pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="Links.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Useful Links</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:10;height:31.9pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:31.9pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="student.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Student Work</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes;height:30.1pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:30.1pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'><a
+    href="Gallery.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Photo Gallery</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='mso-bidi-font-family:Calibri'><span
+  style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+  </td>
+  <td width=836 valign=top style='width:626.7pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+   style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+   none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+    height:404.95pt'>
+    <td width=607 valign=top style='width:455.2pt;padding:0in 5.4pt 0in 5.4pt;
+    height:404.95pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#414141;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></p>
+    <h5 style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;vertical-align:baseline'><span style='font-size:12.0pt;font-family:
+    "Baskerville Old Face",serif;mso-bidi-font-family:Arial;color:black;
+    mso-themecolor:text1;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>About</span><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:black;mso-themecolor:text1'><o:p></o:p></span></h5>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify'><b><span style='font-size:12.0pt;line-height:105%;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#C00000;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>The Integrated Circuit Design Lab</span></b><span
+    style='font-size:12.0pt;line-height:105%;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#002060;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'> </span><span
+    style='font-size:12.0pt;line-height:105%;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>is established to
+    contribute to the echo-system integrated circuit design in Pakistan.<span
+    style='mso-spacerun:yes'>  </span>The main objective of the IC design lab
+    is to decimate the knowledge and methodologies of real silicon tapeout
+    along with circuit design to its graduate students.<span
+    style='mso-spacerun:yes'>  </span>ICD Lab is equipped with all the
+    necessary CAD tools and IC Design Kits needed for an IC- tapeout.<span
+    style='mso-spacerun:yes'>  </span>The main research area is Analog, RF and
+    Mix Signal ICs.<span style='mso-spacerun:yes'>  </span>The ICD lab is
+    currently hosting a dedicated MS in IC Design program with more than 30
+    graduate students. The first student tapeout is planned to be in Spring,
+    2021. The lab has several high impact IEEE journal papers and US patents
+    and real-world working ICs to its credit.<o:p></o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify'><span style='font-size:12.0pt;line-height:105%;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#414141'><o:p>&nbsp;</o:p></span></p>
+    <h5 style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;vertical-align:baseline'><span style='font-size:12.0pt;font-family:
+    "Baskerville Old Face",serif;mso-bidi-font-family:Arial;color:black;
+    mso-themecolor:text1;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>Areas of Expertise:<o:p></o:p></span></h5>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Ultra-Low power
+    on chip sensors <o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>CMOS Broadband RF
+    frontends <o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Over-Sampling
+    Receiver<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>CMOS Resonant
+    Rectifier for Power Harvesting Implantable<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Special Expertise
+    for BiST and DfT<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+    justify;line-height:normal'><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify;line-height:normal'><b><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#C00000;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>Radio Frequency Circuits, Sensors, and Systems Lab (RFCS<sup>2</sup></span></b><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>) is established to create
+    a culture of innovation and then put the innovation into industrial
+    practice as a final step. The primary focus of the LAB is to provide the
+    students and engineers with the tools and environment which promotes the
+    creation of new knowledge and innovation. The lab has several high impact
+    IEEE journal papers and US patents to its credit. RFCS2 lab is equipped
+    with all basic tools like RF sources, Spectrum and Vector Network Analyzer
+    (VNA) and PCB milling machine. <o:p></o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;border:none windowtext 1.0pt;mso-border-alt:
+    none windowtext 0in;padding:0in'>The researcher in RFCS2 are well trained
+    to carryout world class research and innovation to meet the industry
+    needs.<span style='mso-spacerun:yes'>  </span>The RFCS2 lab has developed
+    local and international academic and industrial collaboration, to provide
+    feasible, real-time, and cost-effective industrial solutions.<o:p></o:p></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#414141;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></p>
+    <h5 style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:
+    0in;vertical-align:baseline'><span style='font-size:12.0pt;font-family:
+    "Baskerville Old Face",serif;mso-bidi-font-family:Arial;color:black;
+    mso-themecolor:text1;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>Areas of Expertise:<o:p></o:p></span></h5>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>RF Circuit and
+    System Design<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Microwave Sensors
+    and Systems<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>GHz Energy
+    Tunnelling and its Applications<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Ultra-Low Power
+    Bio Medical Sensors <o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>IoT Devices and
+    Sensors<o:p></o:p></span></p>
+    <p class=Normal1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+    margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in;
+    line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+    lang=EN-IN style='font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;
+    mso-ansi-language:EN-IN'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:black;mso-themecolor:text1;mso-ansi-language:EN-IN'>Self-Powered
+    Energy Harvesting<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#414141;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></p>
+    </td>
+    <td width=154 valign=top style='width:115.8pt;padding:0in 5.4pt 0in 5.4pt;
+    height:404.95pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;mso-outline-level:5;
+    vertical-align:baseline'><b><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+    color:#414141;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;mso-outline-level:5;
+    vertical-align:baseline'><b><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+    color:red;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>Research Projects<o:p></o:p></span></b></p>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;mso-outline-level:5;
+    vertical-align:baseline'><b><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial;
+    color:red'><o:p>&nbsp;</o:p></span></b></p>
+    <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+     style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;
+     mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+     none'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:128.65pt'>
+      <td width=177 valign=top style='width:132.6pt;padding:0in 5.4pt 0in 5.4pt;
+      height:128.65pt'>
+      <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+       align=left style='border-collapse:collapse;border:none;mso-table-overlap:
+       never;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;
+       mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:
+       paragraph;mso-table-anchor-horizontal:margin;mso-table-left:left;
+       mso-table-top:-16.1pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+       none;mso-border-insidev:none'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:93.55pt'>
+        <td width=162 valign=top style='width:121.8pt;padding:0in 5.4pt 0in 5.4pt;
+        height:93.55pt'>
+        <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><span style='mso-element:field-begin;
+        mso-field-lock:yes'></span><span style='mso-spacerun:yes'> </span>SHAPE
+        <span style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span
+        style='mso-element:field-separator'></span></span><![endif]--><span
+        style='mso-bidi-font-family:Calibri'><!--[if gte vml 1]><v:rect id="Picture_x0020_9"
+         o:spid="_x0000_s1029" alt="A picture containing text&#10;&#10;Description automatically generated"
+         href="index_files-20201020T100812Z-001/index_files/image005.jpg"
+         style='width:108pt;height:86.25pt;visibility:visible;mso-wrap-style:square;
+         mso-left-percent:-10001;mso-top-percent:-10001;
+         mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
+         mso-position-vertical:absolute;mso-position-vertical-relative:line;
+         mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top'
+         o:gfxdata="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
+AAAAAA==
+" o:button="t" filled="f" stroked="f">
+         <v:fill o:detectmouseclick="t"/>
+         <o:lock v:ext="edit" aspectratio="t"/>
+         <v:textbox>
+          <![if !mso]>
+          <table cellpadding=0 cellspacing=0 width="100%">
+           <tr>
+            <td><![endif]>
+            <div>
+            <p class=MsoNormal align=center style='text-align:center'><span
+            style='font-size:10.0pt;line-height:105%;mso-no-proof:yes'><v:shape
+             id="Picture_x0020_10" o:spid="_x0000_i1028" type="#_x0000_t75"
+             alt="image005" style='width:93.75pt;height:75pt;visibility:visible;
+             mso-wrap-style:square'>
+             <v:imagedata src="index_files/image005.jpg" o:title="image005"/>
+            </v:shape></span></p>
+            </div>
+            <![if !mso]></td>
+           </tr>
+          </table>
+          <![endif]></v:textbox>
+         <w:wrap type="none"/>
+         <w:anchorlock/>
+        </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+        href="index_files-20201020T100812Z-001/index_files/image005.jpg"><img
+        border=0 width=148 height=119 src="index_files/image008.png"
+        alt="A picture containing text&#10;&#10;Description automatically generated"
+        v:shapes="Picture_x0020_9"></a></span><![endif]></span><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><v:shape id="_x0000_i1032" type="#_x0000_t75"
+         style='width:108pt;height:86.25pt'>
+         <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+        </v:shape><span style='mso-element:field-end'></span></span><![endif]--><span
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:1'>
+        <td width=162 valign=top style='width:121.8pt;padding:0in 5.4pt 0in 5.4pt'>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><a
+        href="sensor.htm">Sensors for <span class=SpellE>IoTr</span></a> <o:p></o:p></span></u></b></p>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p><span
+         style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p><span
+         style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:2'>
+        <td width=162 valign=top style='width:121.8pt;padding:0in 5.4pt 0in 5.4pt'>
+        <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><span style='mso-element:field-begin;
+        mso-field-lock:yes'></span><span style='mso-spacerun:yes'> </span>SHAPE
+        <span style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span
+        style='mso-element:field-separator'></span></span><![endif]--><span
+        style='mso-bidi-font-family:Calibri'><!--[if gte vml 1]><v:rect id="Picture_x0020_10"
+         o:spid="_x0000_s1028"
+         href="index_files-20201020T100812Z-001/index_files/image006.jpg"
+         style='width:111pt;height:96pt;visibility:visible;mso-wrap-style:square;
+         mso-left-percent:-10001;mso-top-percent:-10001;
+         mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
+         mso-position-vertical:absolute;mso-position-vertical-relative:line;
+         mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top'
+         o:gfxdata="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
+ADoBAABqBwAAAAA=
+" o:button="t" filled="f" stroked="f">
+         <v:fill o:detectmouseclick="t"/>
+         <o:lock v:ext="edit" aspectratio="t"/>
+         <v:textbox>
+          <![if !mso]>
+          <table cellpadding=0 cellspacing=0 width="100%">
+           <tr>
+            <td><![endif]>
+            <div>
+            <p class=MsoNormal align=center style='text-align:center'><span
+            style='font-size:10.0pt;line-height:105%;mso-no-proof:yes'><v:shape
+             id="Picture_x0020_11" o:spid="_x0000_i1027" type="#_x0000_t75"
+             alt="image006" style='width:96.8pt;height:83.25pt;visibility:visible;
+             mso-wrap-style:square'>
+             <v:imagedata src="index_files/image011.jpg" o:title="image006"/>
+            </v:shape></span></p>
+            </div>
+            <![if !mso]></td>
+           </tr>
+          </table>
+          <![endif]></v:textbox>
+         <w:wrap type="none"/>
+         <w:anchorlock/>
+        </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+        href="index_files-20201020T100812Z-001/index_files/image006.jpg"><img
+        border=0 width=152 height=132 src="index_files/image009.png"
+        alt="Text Box:  " v:shapes="Picture_x0020_10"></a></span><![endif]></span><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><v:shape id="_x0000_i1031" type="#_x0000_t75"
+         style='width:111pt;height:96pt'>
+         <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+        </v:shape><span style='mso-element:field-end'></span></span><![endif]--><span
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.1pt'>
+        <td width=162 valign=top style='width:121.8pt;padding:0in 5.4pt 0in 5.4pt;
+        height:12.1pt'>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><a
+        href="sensor.htm">Fuel Quality Sensor</a><o:p></o:p></span></u></b></p>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p><span
+         style='text-decoration:none'>&nbsp;</span></o:p></span></u></b></p>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:134.5pt'>
+      <td width=177 valign=top style='width:132.6pt;padding:0in 5.4pt 0in 5.4pt;
+      height:134.5pt'>
+      <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+       align=left style='border-collapse:collapse;border:none;mso-table-overlap:
+       never;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;
+       mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:
+       paragraph;mso-table-anchor-horizontal:margin;mso-table-left:left;
+       mso-table-top:99.45pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+       none;mso-border-insidev:none'>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:100.75pt'>
+        <td width=168 valign=top style='width:126.3pt;padding:0in 5.4pt 0in 5.4pt;
+        height:100.75pt'>
+        <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><span style='mso-element:field-begin;
+        mso-field-lock:yes'></span><span style='mso-spacerun:yes'> </span>SHAPE
+        <span style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span
+        style='mso-element:field-separator'></span></span><![endif]--><span
+        style='mso-bidi-font-family:Calibri'><!--[if gte vml 1]><v:rect id="Picture_x0020_8"
+         o:spid="_x0000_s1027" alt="A circuit board&#10;&#10;Description automatically generated"
+         href="index_files-20201020T100812Z-001/index_files/image013.png"
+         style='width:114.75pt;height:92.25pt;visibility:visible;
+         mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
+         mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
+         mso-position-vertical:absolute;mso-position-vertical-relative:line;
+         mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top'
+         o:gfxdata="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
+AAA=
+" o:button="t" filled="f" stroked="f">
+         <v:fill o:detectmouseclick="t"/>
+         <o:lock v:ext="edit" aspectratio="t"/>
+         <v:textbox>
+          <![if !mso]>
+          <table cellpadding=0 cellspacing=0 width="100%">
+           <tr>
+            <td><![endif]>
+            <div>
+            <p class=MsoNormal align=center style='text-align:center'><span
+            style='font-size:10.0pt;line-height:105%;mso-no-proof:yes'><v:shape
+             id="Picture_x0020_12" o:spid="_x0000_i1026" type="#_x0000_t75"
+             alt="image013" style='width:100.55pt;height:81.05pt;visibility:visible;
+             mso-wrap-style:square'>
+             <v:imagedata src="index_files/image015.png" o:title="image013"/>
+            </v:shape></span></p>
+            </div>
+            <![if !mso]></td>
+           </tr>
+          </table>
+          <![endif]></v:textbox>
+         <w:wrap type="none"/>
+         <w:anchorlock/>
+        </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+        href="index_files-20201020T100812Z-001/index_files/image013.png"><img
+        border=0 width=157 height=127 src="index_files/image012.png"
+        alt="A circuit board&#10;&#10;Description automatically generated"
+        v:shapes="Picture_x0020_8"></a></span><![endif]></span><!--[if mso & !supportInlineShapes & supportFields]><span
+        style='mso-bidi-font-family:Calibri'><v:shape id="_x0000_i1030" type="#_x0000_t75"
+         style='width:114.75pt;height:92.25pt'>
+         <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+        </v:shape><span style='mso-element:field-end'></span></span><![endif]--><span
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+        </td>
+       </tr>
+       <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.55pt'>
+        <td width=168 valign=top style='width:126.3pt;padding:0in 5.4pt 0in 5.4pt;
+        height:21.55pt'>
+        <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+        .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+        normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><a
+        href="research.htm">CMOS RFIC Design</a><o:p></o:p></span></u></b></p>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+    </table>
+    <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 align=left
+     style='border-collapse:collapse;border:none;mso-table-overlap:never;
+     mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;
+     mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;
+     mso-table-anchor-horizontal:margin;mso-table-left:left;mso-table-top:99.45pt;
+     mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+     none'>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:100.75pt'>
+      <td width=168 valign=top style='width:126.3pt;padding:0in 5.4pt 0in 5.4pt;
+      height:100.75pt'>
+      <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+      line-height:normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+      style='mso-bidi-font-family:Calibri'><span style='mso-element:field-begin;
+      mso-field-lock:yes'></span><span style='mso-spacerun:yes'> </span>SHAPE <span
+      style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+      field-separator'></span></span><![endif]--><span style='mso-bidi-font-family:
+      Calibri'><!--[if gte vml 1]><v:rect id="Picture_x0020_2" o:spid="_x0000_s1026"
+       href="index_files-20201020T100812Z-001/index_files/image008.jpg"
+       style='width:115.5pt;height:93pt;visibility:visible;mso-wrap-style:square;
+       mso-left-percent:-10001;mso-top-percent:-10001;
+       mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
+       mso-position-vertical:absolute;mso-position-vertical-relative:line;
+       mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top'
+       o:gfxdata="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
+AAUAOgEAAGwHAAAAAA==
+" o:button="t" filled="f" stroked="f">
+       <v:fill o:detectmouseclick="t"/>
+       <o:lock v:ext="edit" aspectratio="t"/>
+       <v:textbox>
+        <![if !mso]>
+        <table cellpadding=0 cellspacing=0 width="100%">
+         <tr>
+          <td><![endif]>
+          <div>
+          <p class=MsoNormal align=center style='text-align:center'><span
+          style='font-size:10.0pt;line-height:105%;mso-no-proof:yes'><v:shape
+           id="Picture_x0020_13" o:spid="_x0000_i1025" type="#_x0000_t75"
+           alt="image018" style='width:101.3pt;height:73.55pt;visibility:visible;
+           mso-wrap-style:square'>
+           <v:imagedata src="index_files/image014.jpg" o:title="image018"/>
+          </v:shape></span></p>
+          </div>
+          <![if !mso]></td>
+         </tr>
+        </table>
+        <![endif]></v:textbox>
+       <w:wrap type="none"/>
+       <w:anchorlock/>
+      </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+      href="index_files-20201020T100812Z-001/index_files/image008.jpg"><img
+      border=0 width=158 height=128 src="index_files/image016.png"
+      alt="Text Box:  " v:shapes="Picture_x0020_2"></a></span><![endif]></span><!--[if mso & !supportInlineShapes & supportFields]><span
+      style='mso-bidi-font-family:Calibri'><v:shape id="_x0000_i1029" type="#_x0000_t75"
+       style='width:115.5pt;height:93pt'>
+       <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+      </v:shape><span style='mso-element:field-end'></span></span><![endif]--><span
+      style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.55pt'>
+      <td width=168 valign=top style='width:126.3pt;padding:0in 5.4pt 0in 5.4pt;
+      height:21.55pt'>
+      <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+      .0001pt;text-align:center;line-height:normal'><b style='mso-bidi-font-weight:
+      normal'><u><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><a
+      href="research.htm">SC Converter for DVS</a><o:p></o:p></span></u></b></p>
+      </td>
+     </tr>
+    </table>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=225 valign=top style='width:168.9pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+  mso-bidi-font-family:Arial;display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+  mso-bidi-font-family:Arial;display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+  mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+  <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+   style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+   none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=226 valign=top style='width:169.5pt;padding:0in 5.4pt 0in 5.4pt'>
+    <h5 align=center style='margin:0in;margin-bottom:.0001pt;text-align:center;
+    vertical-align:baseline'><span class=color24><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#0E3E9B;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>NEW EVENTS</span></span><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#414141'><o:p></o:p></span></h5>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width=226 valign=top style='width:169.5pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="MS.htm">MS IC Design Program</a></span></b></span><span
+    class=MsoHyperlink><b><span style='mso-bidi-font-family:Calibri'><o:p></o:p></span></b></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="MS.htm">Diploma in IC Design</a><o:p></o:p></span></b></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="Gallery.htm">US Patent Awarded</a><o:p></o:p></span></b></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td width=226 valign=top style='width:169.5pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="Gallery.htm">Slow wave Application, Nature Reports</a><o:p></o:p></span></b></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+    <td width=226 valign=top style='width:169.5pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="Gallery.htm">Keynote Speech at IBCAST-2019</a><o:p></o:p></span></b></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a href="Gallery.htm">New Class of Fuel Sensor</a><o:p></o:p></span></b></span></p>
+    </td>
+   </tr>
+  </table>
+  <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 align=left
+   style='border-collapse:collapse;border:none;mso-table-overlap:never;
+   mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+   9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+   margin;mso-table-left:left;mso-table-top:-16.1pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+   mso-border-insideh:none;mso-border-insidev:none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=225 valign=top style='width:168.7pt;padding:0in 5.4pt 0in 5.4pt'>
+    <h5 align=center style='margin:0in;margin-bottom:.0001pt;text-align:center;
+    vertical-align:baseline'><span class=color24><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#0E3E9B;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></span></h5>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span class=color24><b><span
+    style='mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+    color:#0E3E9B;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'><o:p>&nbsp;</o:p></span></b></span></p>
+    <h5 align=center style='margin:0in;margin-bottom:.0001pt;text-align:center;
+    vertical-align:baseline'><span class=color24><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#0E3E9B;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+    padding:0in'>OPEN POSITIONS<br style='mso-special-character:line-break'>
+    <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+    <![endif]></span></span><span class=color24><span style='color:#0E3E9B;
+    border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;padding:
+    0in;font-weight:normal'><o:p></o:p></span></span></h5>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+    <td width=225 valign=top style='width:168.7pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial;color:#0070C0'><a
+    href="job_files-20201020T100448Z-001/job_files/Research_Assistant_RFCS2.jpeg">Research
+    Assistant Required for RFCS<sup>2</sup> Lab</a></span></b></span><span
+    class=MsoHyperlink><span style='font-size:12.0pt;line-height:115%;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#0070C0'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial;color:#0070C0'><a
+    href="job_files-20201020T100448Z-001/job_files/Lab_Engineer_Position_7_FEB.jpeg">Lab
+    Engineer Required for</a></span></b></span><span class=MsoHyperlink><b><span
+    style='font-size:12.0pt;line-height:115%;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial'><o:p></o:p></span></b></span></p>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;
+    line-height:115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial'><a
+    href="job_files-20201020T100448Z-001/job_files/Lab_Engineer_Position_7_FEB.jpeg">ICD
+    Lab</a></span></b></span><span class=MsoHyperlink><b><span
+    style='font-size:12.0pt;line-height:115%;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#0070C0'><o:p></o:p></span></b></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+  mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+  mso-bidi-font-family:Arial;color:#0070C0'><o:p>&nbsp;</o:p></span></p>
+  <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+   style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+   none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=280 valign=top style='width:210.15pt;padding:0in 5.4pt 0in 5.4pt'>
+    <h5 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#0070C0;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>Upcoming Industrial Courses</span><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#0070C0'><o:p></o:p></span></h5>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#0070C0'><o:p>&nbsp;</o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width=280 valign=top style='width:210.15pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:black'>Eight Student Projects <span
+    class=SpellE>tapeouts</span> in 65nm CMOS in Spring 2021 <b><a
+    href="job.htm">More</a></b></span><span style='font-size:12.0pt;font-family:
+    "Baskerville Old Face",serif;mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td width=280 valign=top style='width:210.15pt;padding:0in 5.4pt 0in 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+    <td width=280 valign=top style='width:210.15pt;padding:0in 5.4pt 0in 5.4pt'>
+    <h5 align=center style='margin:0in;margin-bottom:.0001pt;text-align:center;
+    vertical-align:baseline'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi'><span
+    style='mso-spacerun:yes'> </span><o:p></o:p></span></h5>
+    <h5 align=center style='margin:0in;margin-bottom:.0001pt;text-align:center;
+    mso-outline-level:5;vertical-align:baseline'><span class=color24><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:red;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>NEWS</span></span><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:red'><o:p></o:p></span></h5>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    line-height:normal'><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  115%'><span class=MsoHyperlink><b><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>IC
+  Design 11<sup>th</sup> Seminar <o:p></o:p></span></b></span></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=1313
+ style='width:985.1pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:69.25pt'>
+  <td width=1313 valign=top style='width:985.1pt;background:#1F3864;mso-background-themecolor:
+  accent5;mso-background-themeshade:128;padding:0in 5.4pt 0in 5.4pt;height:
+  69.25pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1'>Address<o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1'>Department of Electrical Engineering,<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1'>FAST-NUCES,<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1'>A.K. Brohi Road, H-11/4<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  mso-bidi-font-size:11.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1'>Tel: +92-(51 )111 128 128, Ext:389,
+  Fax (051) 8314119</span><span style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

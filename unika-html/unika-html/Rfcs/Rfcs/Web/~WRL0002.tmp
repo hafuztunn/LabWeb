@@ -1,0 +1,2207 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="research_files/filelist.xml">
+<link rel=Edit-Time-Data href="research_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>muhammad omar</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Windows User</o:LastAuthor>
+  <o:Revision>16</o:Revision>
+  <o:TotalTime>21</o:TotalTime>
+  <o:Created>2021-06-10T03:09:00Z</o:Created>
+  <o:LastSaved>2021-06-10T20:07:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>384</o:Words>
+  <o:Characters>2189</o:Characters>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2568</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="research_files/themedata.thmx">
+<link rel=colorSchemeMapping href="research_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>120</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:DocumentVariables>
+   <w:__Grammarly_42____i>H4sIAAAAAAAEAKtWckksSQxILCpxzi/NK1GyMqwFAAEhoTITAAAA</w:__Grammarly_42____i>
+   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDYyNjUyMjM1MDW0MDa1sLRU0lEKTi0uzszPAykwrwUAugn1/SwAAAA=</w:__Grammarly_42___1>
+  </w:DocumentVariables>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+h5
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:5;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	letter-spacing:-.5pt;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:.5in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:msotitlecxsplast;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-hansi-font-family:"Calibri Light";
+	mso-bidi-font-family:"Calibri Light";
+	letter-spacing:-.5pt;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
+p.msotitlecxspfirst, li.msotitlecxspfirst, div.msotitlecxspfirst
+	{mso-style-name:msotitlecxspfirst;
+	mso-style-unhide:no;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	letter-spacing:-.5pt;}
+p.msotitlecxspmiddle, li.msotitlecxspmiddle, div.msotitlecxspmiddle
+	{mso-style-name:msotitlecxspmiddle;
+	mso-style-unhide:no;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	letter-spacing:-.5pt;}
+p.msotitlecxsplast, li.msotitlecxsplast, div.msotitlecxsplast
+	{mso-style-name:msotitlecxsplast;
+	mso-style-unhide:no;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	letter-spacing:-.5pt;}
+p.msolistparagraphcxspfirst, li.msolistparagraphcxspfirst, div.msolistparagraphcxspfirst
+	{mso-style-name:msolistparagraphcxspfirst;
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.msolistparagraphcxspmiddle, li.msolistparagraphcxspmiddle, div.msolistparagraphcxspmiddle
+	{mso-style-name:msolistparagraphcxspmiddle;
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.msolistparagraphcxsplast, li.msolistparagraphcxsplast, div.msolistparagraphcxsplast
+	{mso-style-name:msolistparagraphcxsplast;
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:.5in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.font8, li.font8, div.font8
+	{mso-style-name:font_8;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.Normal1, li.Normal1, div.Normal1
+	{mso-style-name:Normal1;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.font80, li.font80, div.font80
+	{mso-style-name:font8;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+span.color24
+	{mso-style-name:color_24;
+	mso-style-unhide:no;}
+span.color25
+	{mso-style-name:color25;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-bidi-font-family:Calibri;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1035"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#0563C1" vlink="#954F72" style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=1309
+ style='width:981.85pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:66.55pt'>
+  <td width=248 valign=top style='width:186.25pt;padding:0in 5.4pt 0in 5.4pt;
+  height:66.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+  style='mso-element:field-begin;mso-field-lock:yes'></span><span
+  style='mso-spacerun:yes'> </span>SHAPE <span
+  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Picture_x0020_40"
+   o:spid="_x0000_s1034" href="index.htm" style='width:158.25pt;height:59.25pt;
+   visibility:visible;mso-wrap-style:square;mso-left-percent:-10001;
+   mso-top-percent:-10001;mso-position-horizontal:absolute;
+   mso-position-horizontal-relative:char;mso-position-vertical:absolute;
+   mso-position-vertical-relative:line;mso-left-percent:-10001;
+   mso-top-percent:-10001;v-text-anchor:top' o:gfxdata="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
+" o:button="t" filled="f" stroked="f">
+   <v:fill o:detectmouseclick="t"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+   <v:textbox>
+    <![if !mso]>
+    <table cellpadding=0 cellspacing=0 width="100%">
+     <tr>
+      <td><![endif]>
+      <div>
+      <p class=MsoNormal align=center style='text-align:center'><span
+      style='font-size:10.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+      mso-no-proof:yes'><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+       o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+       stroked="f">
+       <v:stroke joinstyle="miter"/>
+       <v:formulas>
+        <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+        <v:f eqn="sum @0 1 0"/>
+        <v:f eqn="sum 0 0 @1"/>
+        <v:f eqn="prod @2 1 2"/>
+        <v:f eqn="prod @3 21600 pixelWidth"/>
+        <v:f eqn="prod @3 21600 pixelHeight"/>
+        <v:f eqn="sum @0 0 1"/>
+        <v:f eqn="prod @6 1 2"/>
+        <v:f eqn="prod @7 21600 pixelWidth"/>
+        <v:f eqn="sum @8 21600 0"/>
+        <v:f eqn="prod @7 21600 pixelHeight"/>
+        <v:f eqn="sum @10 21600 0"/>
+       </v:formulas>
+       <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+       <o:lock v:ext="edit" aspectratio="t"/>
+      </v:shapetype><v:shape id="Picture_x0020_25" o:spid="_x0000_i1026"
+       type="#_x0000_t75" style='width:138.75pt;height:51.75pt;visibility:visible;
+       mso-wrap-style:square'>
+       <v:imagedata src="research_files/image001.gif" o:title=""/>
+      </v:shape></span></p>
+      </div>
+      <![if !mso]></td>
+     </tr>
+    </table>
+    <![endif]></v:textbox>
+   <w:wrap type="none"/>
+   <w:anchorlock/>
+  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+  href="index.htm"><img border=0 width=215 height=83
+  src="research_files/image003.gif" alt="Text Box:  " v:shapes="Picture_x0020_40"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+   id="_x0000_i1035" type="#_x0000_t75" style='width:158.25pt;height:59.25pt'>
+   <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=836 style='width:626.7pt;background:#1F4E79;padding:0in 5.4pt 0in 5.4pt;
+  height:66.55pt'>
+  <p class=MsoTitle align=center style='text-align:center'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:26.0pt;font-family:"Baskerville Old Face",serif;
+  color:white;mso-themecolor:background1;mso-style-textoutline-type:none;
+  mso-style-textoutline-outlinestyle-dpiwidth:0pt;mso-style-textoutline-outlinestyle-linecap:
+  flat;mso-style-textoutline-outlinestyle-join:round;mso-style-textoutline-outlinestyle-pctmiterlimit:
+  0%;mso-style-textoutline-outlinestyle-dash:solid;mso-style-textoutline-outlinestyle-align:
+  center;mso-style-textoutline-outlinestyle-compound:simple;mso-effects-shadow-color:
+  black;mso-effects-shadow-themecolor:dark1;mso-effects-shadow-alpha:40.0%;
+  mso-effects-shadow-dpiradius:3.0pt;mso-effects-shadow-dpidistance:1.5pt;
+  mso-effects-shadow-angledirection:2700000;mso-effects-shadow-align:topleft;
+  mso-effects-shadow-pctsx:100.0%;mso-effects-shadow-pctsy:100.0%;mso-effects-shadow-anglekx:
+  0;mso-effects-shadow-angleky:0'>Radio Frequency &amp; Integrated Circuits
+  Systems Lab</span></b><span style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+  <td width=225 valign=top style='width:168.9pt;padding:0in 5.4pt 0in 5.4pt;
+  height:66.55pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><!--[if mso & !supportInlineShapes & supportFields]><span
+  style='mso-element:field-begin;mso-field-lock:yes'></span><span
+  style='mso-spacerun:yes'> </span>SHAPE <span
+  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Picture_x0020_6"
+   o:spid="_x0000_s1033" alt="A picture containing clipart&#10;&#10;Description automatically generated"
+   href="index.htm" style='width:168.75pt;height:66pt;visibility:visible;
+   mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
+   mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
+   mso-position-vertical:absolute;mso-position-vertical-relative:line;
+   mso-left-percent:-10001;mso-top-percent:-10001;v-text-anchor:top' o:gfxdata="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
+" o:button="t" filled="f" stroked="f">
+   <v:fill o:detectmouseclick="t"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+   <v:textbox>
+    <![if !mso]>
+    <table cellpadding=0 cellspacing=0 width="100%">
+     <tr>
+      <td><![endif]>
+      <div>
+      <p class=MsoNormal align=center style='text-align:center'><span
+      style='font-size:10.0pt;line-height:105%;mso-fareast-font-family:"Times New Roman";
+      mso-no-proof:yes'><v:shape id="Picture_x0020_26" o:spid="_x0000_i1025"
+       type="#_x0000_t75" style='width:150.75pt;height:58.5pt;visibility:visible;
+       mso-wrap-style:square'>
+       <v:imagedata src="research_files/image007.jpg" o:title=""/>
+      </v:shape></span></p>
+      </div>
+      <![if !mso]></td>
+     </tr>
+    </table>
+    <![endif]></v:textbox>
+   <w:wrap type="none"/>
+   <w:anchorlock/>
+  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
+  href="index.htm"><img border=0 width=229 height=92
+  src="research_files/image010.gif"
+  alt="A picture containing clipart&#10;&#10;Description automatically generated"
+  v:shapes="Picture_x0020_6"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+   id="_x0000_i1034" type="#_x0000_t75" style='width:168.75pt;height:66pt'>
+   <v:imagedata croptop="-65520f" cropbottom="65520f"/>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes;height:413.05pt'>
+  <td width=248 valign=top style='width:186.25pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 align=left
+   style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+   mso-table-overlap:never;mso-yfti-tbllook:1184;mso-table-lspace:9.35pt;
+   margin-left:7.1pt;mso-table-rspace:9.35pt;margin-right:7.1pt;mso-table-tspace:
+   .1in;margin-top:4.95pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+   margin;mso-table-left:left;mso-table-top:133.95pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    mso-border-alt:solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:
+    accent1;mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;
+    height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="index.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Home</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:25.6pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:25.6pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="team.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Team</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="research.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Research</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="publication.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Patent &amp; Pub.</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:4;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="MS.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>ICD MS Programs</span></a> <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:5;height:26.5pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.5pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;color:white;mso-themecolor:background1'>ICD
+    Grad. Diploma Program<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:6;height:27.1pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:27.1pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="courses.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Courses</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:7;height:28.75pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:28.75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="facilities.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Lab Facilities</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:8;height:28.75pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:28.75pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span class=MsoHyperlink><span
+    style='mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+    mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:white;
+    mso-themecolor:background1;text-decoration:none;text-underline:none'><a
+    href="job.htm"><span style='font-size:16.0pt;font-family:"Baskerville Old Face",serif;
+    color:white;mso-themecolor:background1;text-decoration:none;text-underline:
+    none'>Open Positions</span></a></span></span><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:9;height:25.15pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:25.15pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="Links.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Useful Links</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:10;height:31.9pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:31.9pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="student.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Student Work</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes;height:30.1pt'>
+    <td width=197 valign=top style='width:148.1pt;border:solid windowtext 1.0pt;
+    border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:
+    solid windowtext .5pt;background:#2E74B5;mso-background-themecolor:accent1;
+    mso-background-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:30.1pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal'><span style='font-size:16.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;color:white;mso-themecolor:background1'><a
+    href="Gallery.htm"><span style='color:white;mso-themecolor:background1;
+    text-decoration:none;text-underline:none'>Photo Gallery</span></a><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=836 valign=top style='width:626.7pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=825
+   style='width:618.7pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 0in 0in 0in'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+    height:404.95pt'>
+    <td width=825 valign=top style='width:618.7pt;padding:0in 5.4pt 0in 5.4pt;
+    height:404.95pt'>
+    <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;color:#414141'>&nbsp;</span><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+    <p class=Normal1 style='margin-bottom:6.0pt;text-align:justify;line-height:
+    normal'><b><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#002060;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>Radio Frequency Circuits,
+    Sensors, and Systems Lab (RFCS<sup>2</sup>)<o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:6.0pt;line-height:normal'><b><span
+    lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#002060;mso-ansi-language:EN-IN'>Recent
+    Projects:<br>
+    </span></b><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
+     o:spid="_x0000_i1033" type="#_x0000_t75" style='width:222pt;height:53.25pt;
+     visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image013.gif" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=296 height=71
+    src="research_files/image013.gif" v:shapes="Picture_x0020_7"><![endif]></span><!--[if gte vml 1]><v:shapetype
+     id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+     <v:stroke joinstyle="miter"/>
+     <v:path gradientshapeok="t" o:connecttype="rect"/>
+    </v:shapetype><v:shape id="_x0000_s1032" type="#_x0000_t202" style='position:absolute;
+     margin-left:-14.15pt;margin-top:-50.55pt;width:354.15pt;height:85.7pt;
+     z-index:251674624;visibility:visible;mso-wrap-style:square;
+     mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;
+     mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;
+     mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;
+     mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+     mso-position-vertical-relative:page;mso-width-percent:0;
+     mso-height-percent:200;mso-width-relative:margin;mso-height-relative:margin;
+     v-text-anchor:top' o:gfxdata="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
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:
+        10.0pt;margin-left:0in;text-align:justify;vertical-align:baseline'><b><span
+        style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:darkred'>High-Frequency Dielectric Sensor </span></b><span
+        style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:black'>is based on a new class of Microwave Energy
+        Tunneling-Based&nbsp;Dielectric sensor for&nbsp;solid and liquid
+        sample. These types of sensors can detect minor variation in the
+        dielectric constant, and they are highly scalable, accurate and low
+        cost and have the application in bio-sensing and medical industry.<o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=476 height=119
+    src="research_files/image017.gif" align=left hspace=12 vspace=5
+    alt="Text Box: High-Frequency Dielectric Sensor is based on a new class of Microwave Energy Tunneling-Based Dielectric sensor for solid and liquid sample. These types of sensors can detect minor variation in the dielectric constant, and they are highly scalable, accurate and low cost and have the application in bio-sensing and medical industry."
+    v:shapes="_x0000_s1032"><![endif]><!--[if gte vml 1]><v:shape id="Text_x0020_Box_x0020_2"
+     o:spid="_x0000_s1031" type="#_x0000_t202" style='position:absolute;
+     margin-left:0;margin-top:241.95pt;width:353.3pt;height:113.1pt;z-index:251672576;
+     visibility:visible;mso-wrap-style:square;mso-width-percent:0;
+     mso-height-percent:200;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+     mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+     mso-position-horizontal:left;mso-position-horizontal-relative:text;
+     mso-position-vertical:absolute;mso-position-vertical-relative:page;
+     mso-width-percent:0;mso-height-percent:200;mso-width-relative:margin;
+     mso-height-relative:margin;v-text-anchor:top' o:gfxdata="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
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=Normal1 style='text-align:justify;line-height:normal'><b><span
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:darkred'>All Electronic Fuel Impurity
+        Sensor </span></b><span style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial'>is based on the recently reported phenomena
+        of energy&nbsp;tunneling. Therefore, the basic idea behind
+        contamination detection is unique and new.<span style='mso-no-proof:
+        yes'><span style='mso-spacerun:yes'>  </span></span>The proposed sensor
+        is low power, rugged, simple and highly sensitive; it can detect a
+        minor change in the dielectric constant of the fuel. The operational
+        power requirements of the sensor are extremely low. Self-calibrated is
+        needed to tackle the effect of temperature variations. <o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=475 height=155
+    src="research_files/image020.gif" align=left hspace=12 vspace=5
+    alt="Text Box: All Electronic Fuel Impurity Sensor is based on the recently reported phenomena of energy tunneling. Therefore, the basic idea behind contamination detection is unique and new.  The proposed sensor is low power, rugged, simple and highly sensitive; it can detect a minor change in the dielectric constant of the fuel. The operational power requirements of the sensor are extremely low. Self-calibrated is needed to tackle the effect of temperature variations. "
+    v:shapes="Text_x0020_Box_x0020_2"><![endif]><b><span lang=EN-IN
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:#002060;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+    margin-left:0in;text-align:justify;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:darkred'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+    margin-left:0in;text-align:justify;vertical-align:baseline'><b
+    style='mso-bidi-font-weight:normal'><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_16" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:200.25pt;
+     height:108.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image022.jpg" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=267 height=145
+    src="research_files/image024.jpg" v:shapes="Picture_x0020_16"><![endif]></span></b><!--[if gte vml 1]><v:shape
+     id="_x0000_s1030" type="#_x0000_t202" style='position:absolute;left:0;
+     text-align:left;margin-left:0;margin-top:335.25pt;width:354.1pt;height:99.4pt;
+     z-index:251681792;visibility:visible;mso-wrap-style:square;
+     mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;
+     mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;
+     mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:left;
+     mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+     mso-position-vertical-relative:page;mso-width-percent:0;
+     mso-height-percent:200;mso-width-relative:margin;mso-height-relative:margin;
+     v-text-anchor:top' o:gfxdata="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
+di54bWxQSwUGAAAAAAQABADzAAAAhwUAAAAA
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:
+        10.0pt;margin-left:0in;text-align:justify;vertical-align:baseline'><b><span
+        style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:darkred'>Power Amplifier </span></b><span style='font-family:
+        "Baskerville Old Face",serif;mso-bidi-font-family:Arial;color:black'>The
+        group is involved in the PAs design for the industrial application
+        meeting the tough temperature and environmental requirement. Recently,
+        we designed the 100W 1.2 to 1.6GHz Class-E PA for industrial applications.
+        We have also done Class-AB PAs for L &amp; S band for linear
+        applications including the pre-driver, power supply and OV, OC, and OT
+        protections circuits.</span><span style='font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:black;mso-themecolor:text1'><o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=476 height=136
+    src="research_files/image025.gif" align=left hspace=12 vspace=5
+    alt="Text Box: Power Amplifier The group is involved in the PAs design for the industrial application meeting the tough temperature and environmental requirement. Recently, we designed the 100W 1.2 to 1.6GHz Class-E PA for industrial applications. We have also done Class-AB PAs for L &amp; S band for linear applications including the pre-driver, power supply and OV, OC, and OT protections circuits."
+    v:shapes="_x0000_s1030"><![endif]><b><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred'><o:p></o:p></span></b></p>
+    <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+    margin-left:0in;vertical-align:baseline'><!--[if gte vml 1]><v:shape id="_x0000_s1029"
+     type="#_x0000_t202" style='position:absolute;margin-left:0;margin-top:418.65pt;
+     width:355.8pt;height:113.1pt;z-index:251697152;visibility:visible;
+     mso-wrap-style:square;mso-width-percent:0;mso-height-percent:200;
+     mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+     mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+     mso-position-horizontal:left;mso-position-horizontal-relative:text;
+     mso-position-vertical:absolute;mso-position-vertical-relative:page;
+     mso-width-percent:0;mso-height-percent:200;mso-width-relative:margin;
+     mso-height-relative:margin;v-text-anchor:top' o:gfxdata="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
+di54bWxQSwUGAAAAAAQABADzAAAAhwUAAAAA
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:
+        10.0pt;margin-left:0in;text-align:justify;vertical-align:baseline'><b><span
+        style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:darkred'>Plant Water &amp; Moisture Sensor </span></b><span
+        style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:black;mso-themecolor:text1'>w</span><span style='font-family:
+        "Baskerville Old Face",serif;mso-bidi-font-family:Arial;color:black'>orks
+        on the&nbsp;phenomenon&nbsp;of phase&nbsp;dispersion. This is accurate and
+        stable in noisy environments, work for real leaf and foliage samples.
+        The technique is very simple yet very effective, it detects the
+        permittivity of water inside the sample. The proposed sensors are
+        self-powered and more sensitive and stable compared to the sensors
+        available in the market sensors. These sensors have a huge market in
+        agriculture related autonomous irrigation systems.<o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=478 height=155
+    src="research_files/image027.gif" align=left hspace=12 vspace=5
+    alt="Text Box: Plant Water &amp; Moisture Sensor works on the phenomenon of phase dispersion. This is accurate and stable in noisy environments, work for real leaf and foliage samples. The technique is very simple yet very effective, it detects the permittivity of water inside the sample. The proposed sensors are self-powered and more sensitive and stable compared to the sensors available in the market sensors. These sensors have a huge market in agriculture related autonomous irrigation systems."
+    v:shapes="_x0000_s1029"><![endif]><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_19" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:201.75pt;
+     height:95.25pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image029.jpg" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=269 height=127
+    src="research_files/image028.jpg" v:shapes="Picture_x0020_19"><![endif]></span><b><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:darkred'><o:p></o:p></span></b></p>
+    <p class=font80 style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+    margin-left:0in;vertical-align:baseline'><b><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b
+    style='mso-bidi-font-weight:normal'><span style='font-family:"Baskerville Old Face",serif;
+    mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_15" o:spid="_x0000_i1030"
+     type="#_x0000_t75" style='width:204pt;height:108.75pt;visibility:visible;
+     mso-wrap-style:square'>
+     <v:imagedata src="research_files/image009.png" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=272 height=145
+    src="research_files/image030.jpg" v:shapes="Picture_x0020_15"><![endif]></span></b><b><span
+    style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><a href="sensor.htm">More
+    Details &gt;&gt;&gt;</a><o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif;color:#002060;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:#002060;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'>The Integrated Circuit
+    Design Lab <o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:#002060;border:none windowtext 1.0pt;
+    mso-border-alt:none windowtext 0in;padding:0in'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial;color:#002060;mso-ansi-language:EN-IN'>Recent Projects:<o:p></o:p></span></b></p>
+    <p class=font8 align=center style='margin:0in;margin-bottom:.0001pt;
+    text-align:center;vertical-align:baseline'><!--[if gte vml 1]><v:shape
+     id="_x0000_s1028" type="#_x0000_t202" style='position:absolute;left:0;
+     text-align:left;margin-left:0;margin-top:735.9pt;width:354.1pt;height:98.1pt;
+     z-index:251691008;visibility:visible;mso-wrap-style:square;
+     mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;
+     mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;
+     mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:left;
+     mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+     mso-position-vertical-relative:page;mso-width-percent:0;
+     mso-height-percent:200;mso-width-relative:margin;mso-height-relative:margin;
+     v-text-anchor:top' o:gfxdata="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
+LnhtbFBLBQYAAAAABAAEAPMAAACGBQAAAAA=
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=MsoNormal style='text-align:justify'><b><span
+        style='font-size:12.0pt;line-height:105%;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:darkred'>Low Power Temperature Sensor
+        for Vaccines</span></b><b><span style='font-size:12.0pt;line-height:
+        105%;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+        Arial;color:#C00000;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+        padding:0in'><o:p></o:p></span></b></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        text-align:justify;line-height:normal'><span lang=EN-IN
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;mso-ansi-language:
+        EN-IN'>We designed and tested temperature sensor, rectifier, and
+        regulation blocks of the microchip (sized 1.5mm x1.5mm). The
+        temperature sensor is extremely low powered (less than 1microwatt) and
+        has an accuracy of 0.2<sup>0</sup>C. Such type of temperature sensing
+        IC can be used in Vaccine bottles for continuous monitoring of the
+        vaccine’s temperature.<o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=476 height=134
+    src="research_files/image031.gif" align=left hspace=12 vspace=5
+    alt="Text Box: Low Power Temperature Sensor for Vaccines&#13;&#10;We designed and tested temperature sensor, rectifier, and regulation blocks of the microchip (sized 1.5mm x1.5mm). The temperature sensor is extremely low powered (less than 1microwatt) and has an accuracy of 0.20C. Such type of temperature sensing IC can be used in Vaccine bottles for continuous monitoring of the vaccine’s temperature.&#13;&#10;"
+    v:shapes="_x0000_s1028"><![endif]><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_22" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:107.25pt;
+     height:108pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image033.gif" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=143 height=144
+    src="research_files/image032.jpg" v:shapes="Picture_x0020_22"><![endif]></span><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:
+    Arial;color:#002060;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=font8 align=center style='margin:0in;margin-bottom:.0001pt;
+    text-align:center;vertical-align:baseline'><b><span lang=EN-IN
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#002060;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><!--[if gte vml 1]><v:shape id="_x0000_s1027" type="#_x0000_t202"
+     style='position:absolute;margin-left:-14.15pt;margin-top:-760.2pt;width:354.1pt;
+     height:157.9pt;z-index:251693056;visibility:visible;mso-wrap-style:square;
+     mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;
+     mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;
+     mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;
+     mso-position-horizontal-relative:text;mso-position-vertical:absolute;
+     mso-position-vertical-relative:page;mso-width-percent:0;
+     mso-height-percent:200;mso-width-relative:margin;mso-height-relative:margin;
+     v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA
+0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD
+OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893
+SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y
+JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl
+bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR
+JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY
+22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i
+OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA
+IQByudXuIgIAACQEAAAOAAAAZHJzL2Uyb0RvYy54bWysU9uO2yAQfa/Uf0C8N3a8SbOx4qy22aaq
+tL1Iu/0AjHGMCgwFEjv9+h1wkkbbt6o8IGCGw5lzhtXdoBU5COclmIpOJzklwnBopNlV9Mfz9t0t
+JT4w0zAFRlT0KDy9W799s+ptKQroQDXCEQQxvuxtRbsQbJllnndCMz8BKwwGW3CaBdy6XdY41iO6
+VlmR5++zHlxjHXDhPZ4+jEG6TvhtK3j41rZeBKIqitxCml2a6zhn6xUrd47ZTvITDfYPLDSTBh+9
+QD2wwMjeyb+gtOQOPLRhwkFn0LaSi1QDVjPNX1Xz1DErUi0ojrcXmfz/g+VfD98dkU1FC5THMI0e
+PYshkA8wkCLK01tfYtaTxbww4DHanEr19hH4T08MbDpmduLeOeg7wRqkN403s6urI46PIHX/BRp8
+hu0DJKChdTpqh2oQREcex4s1kQrHw9lsucgXGOIYQ+PnNzfJvIyV5+vW+fBJgCZxUVGH3id4dnj0
+IdJh5TklvuZByWYrlUobt6s3ypEDwz7ZppEqeJWmDOkrupwX84RsIN5PLaRlwD5WUlf0No9j7Kwo
+x0fTpJTApBrXyESZkz5RklGcMNRDcmJxlr2G5oiCORjbFr8ZLjpwvynpsWUr6n/tmROUqM8GRV9O
+Z7PY42kzmy+io+46Ul9HmOEIVdFAybjchPQvkhz2Hs3ZyiRbdHFkcqKMrZjUPH2b2OvX+5T153Ov
+XwAAAP//AwBQSwMEFAAGAAgAAAAhALFj2MXjAAAADwEAAA8AAABkcnMvZG93bnJldi54bWxMj8FO
+wzAQRO9I/IO1SNxap4GmbYhTVVRcOCBRkMrRjZ04wl5HtpuGv2d7gtvuzGj2bbWdnGWjDrH3KGAx
+z4BpbLzqsRPw+fEyWwOLSaKS1qMW8KMjbOvbm0qWyl/wXY+H1DEqwVhKASaloeQ8NkY7Ged+0Ehe
+64OTidbQcRXkhcqd5XmWFdzJHumCkYN+Nrr5PpydgKMzvdqHt69W2XH/2u6WwxQGIe7vpt0TsKSn
+9BeGKz6hQ01MJ39GFZkVMMvXDxSlYbHMs0dglClWmw2w01UjqQBeV/z/H/UvAAAA//8DAFBLAQIt
+ABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10u
+eG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAAAAAAAAAALwEAAF9yZWxzLy5y
+ZWxzUEsBAi0AFAAGAAgAAAAhAHK51e4iAgAAJAQAAA4AAAAAAAAAAAAAAAAALgIAAGRycy9lMm9E
+b2MueG1sUEsBAi0AFAAGAAgAAAAhALFj2MXjAAAADwEAAA8AAAAAAAAAAAAAAAAAfAQAAGRycy9k
+b3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAACMBQAAAAA=
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><b><span lang=EN-IN style='font-size:12.0pt;
+        font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+        color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><b><span lang=EN-IN style='font-size:12.0pt;
+        font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+        color:darkred;mso-ansi-language:EN-IN'>Wide Voltage Range SC Converter
+        for DVS <o:p></o:p></span></b></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        text-align:justify;line-height:normal'><span lang=EN-IN
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;mso-ansi-language:
+        EN-IN'>A new switched capacitor (SC) converter that can handle a wide
+        range of load currents and output voltages is presented for on-chip
+        dynamic voltage scaling (DVS) implementation. The proposed converter
+        consists of multi-ratio multi-leaf SC stages and reconfigurable
+        interconnect, enabling fine voltage resolution. The stage interconnect
+        scheme enables cascaded or parallel connection of stages. The
+        multi-leaf structure allows load-dependent switch size selection,
+        offering a better trade-off between losses over a wide load range. <o:p></o:p></span></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        text-align:justify;line-height:normal'><span lang=EN-IN
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;mso-ansi-language:
+        EN-IN'><o:p>&nbsp;</o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=476 height=215
+    src="research_files/image034.gif" align=left hspace=12 vspace=5
+    alt="Text Box: Wide Voltage Range SC Converter for DVS &#13;&#10;A new switched capacitor (SC) converter that can handle a wide range of load currents and output voltages is presented for on-chip dynamic voltage scaling (DVS) implementation. The proposed converter consists of multi-ratio multi-leaf SC stages and reconfigurable interconnect, enabling fine voltage resolution. The stage interconnect scheme enables cascaded or parallel connection of stages. The multi-leaf structure allows load-dependent switch size selection, offering a better trade-off between losses over a wide load range. &#13;&#10;&#13;&#10;"
+    v:shapes="_x0000_s1027"><![endif]><b><span lang=EN-IN style='font-size:
+    12.0pt;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:#002060;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><b><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_23" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:141pt;
+     height:102.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image036.jpg" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=188 height=137
+    src="research_files/image035.jpg" v:shapes="Picture_x0020_23"><![endif]></span></b><b><span
+    lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><b><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><b><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><b><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><!--[if gte vml 1]><v:shape id="_x0000_s1026" type="#_x0000_t202"
+     style='position:absolute;margin-left:-14.15pt;margin-top:-924.35pt;
+     width:354.1pt;height:130.5pt;z-index:251695104;visibility:visible;
+     mso-wrap-style:square;mso-width-percent:0;mso-height-percent:200;
+     mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+     mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+     mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+     mso-position-vertical:absolute;mso-position-vertical-relative:page;
+     mso-width-percent:0;mso-height-percent:200;mso-width-relative:margin;
+     mso-height-relative:margin;v-text-anchor:top' o:gfxdata="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
+" stroked="f">
+     <v:textbox style='mso-fit-shape-to-text:t'>
+      <![if !mso]>
+      <table cellpadding=0 cellspacing=0 width="100%">
+       <tr>
+        <td><![endif]>
+        <div>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><b><span lang=EN-IN style='font-size:12.0pt;
+        font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+        color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        line-height:normal'><b><span lang=EN-IN style='font-size:12.0pt;
+        font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+        color:darkred;mso-ansi-language:EN-IN'>High Voltage Harmonic SC
+        Harvesting Interface<o:p></o:p></span></b></p>
+        <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;
+        text-align:justify;line-height:normal'><span lang=EN-IN
+        style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+        mso-bidi-font-family:Arial;color:black;mso-themecolor:text1;mso-ansi-language:
+        EN-IN'>A novel switched-capacitor (SC) DC-DC converter, which can be
+        used for efficient battery charging from high-voltage kinetic energy <span
+        class=SpellE>nano</span>-generators, and also for powering low voltage
+        electronics in automotive and industrial applications. To limit the
+        conduction loss, which is the major bottleneck of multi-stage SC
+        converters, for efficient energy conversion, from high-voltage input to
+        near battery voltage conversion, a recursive-output SC (ROSC) stage is
+        introduced.<o:p></o:p></span></p>
+        </div>
+        <![if !mso]></td>
+       </tr>
+      </table>
+      <![endif]></v:textbox>
+     <w:wrap type="square" anchory="page"/>
+    </v:shape><![endif]--><![if !vml]><img width=476 height=178
+    src="research_files/image037.gif" align=left hspace=12 vspace=5
+    alt="Text Box: High Voltage Harmonic SC Harvesting Interface&#13;&#10;A novel switched-capacitor (SC) DC-DC converter, which can be used for efficient battery charging from high-voltage kinetic energy nano-generators, and also for powering low voltage electronics in automotive and industrial applications. To limit the conduction loss, which is the major bottleneck of multi-stage SC converters, for efficient energy conversion, from high-voltage input to near battery voltage conversion, a recursive-output SC (ROSC) stage is introduced.&#13;&#10;"
+    v:shapes="_x0000_s1026"><![endif]><b><span lang=EN-IN style='font-size:
+    12.0pt;font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:darkred;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><b><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=Normal1 align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+    text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+    style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+     id="Picture_x0020_24" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:144.75pt;
+     height:105.75pt;visibility:visible;mso-wrap-style:square'>
+     <v:imagedata src="research_files/image039.jpg" o:title=""/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=193 height=141
+    src="research_files/image038.jpg" v:shapes="Picture_x0020_24"><![endif]></span></b><b><span
+    lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal'><span lang=EN-IN style='font-size:12.0pt;font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><a href="IC.htm">More&gt;&gt;&gt;</a><br
+    style='mso-special-character:line-break'>
+    <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+    <![endif]><o:p></o:p></span></b></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal;tab-stops:62.35pt'><b><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:darkred;mso-ansi-language:EN-IN'>MS IC Design Program<o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>The
+    ICD lab has offered a dedicated graduate program in IC which has 25 enrolled
+    students for spring 2020. This is a unique program, in Pakistan and is
+    supported by private and government industry in Pakistan. The subject
+    distribution is,</span><b><span style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><o:p>&nbsp;</o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    style='font-family:"Baskerville Old Face",serif'><a href="MS.htm">More&gt;&gt;&gt;</a></span></b><span
+    class=MsoHyperlink><o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><o:p>&nbsp;</o:p></p>
+    <p class=Normal1 style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+    normal;tab-stops:62.35pt'><b><span lang=EN-IN style='font-size:12.0pt;
+    font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial;
+    color:darkred;mso-ansi-language:EN-IN'>Completed Research Projects.<o:p></o:p></span></b></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;color:red;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>UAEU
+    Interdisciplinary, ”Low cost, Non-invasive plant water Estimation based on
+    Electromagnetic Anomalous phase dispersion”, 2017, 400K AED (108K
+    US$)&nbsp;&nbsp;<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>Space
+    Centre Grant, “High-Efficiency L-Band Power Amplifier (PA) for Space
+    Applications”, 2017, 100 K AED (27K US$)&nbsp;<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>UAEU
+    SURE, “A Power Efficient, Portable, Solar Powered Commercial Drone
+    Interceptor.”, 2017, 65 K AED (18K US$)&nbsp;<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial'> UAEU UPAR, “New Class of Highly-sensitive
+    Energy Tunneling based Sensors for Biomedical applications”, 2014, 397K AED
+    (108K US$)<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>UAEU
+    Engineering College Seed Grant, “LNA Design for Cognitive Radios”, 2015,
+    30K AED (8K US$)&nbsp;<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>PI:
+    UAEU Startup Grant, “Passive self-powered, fully CMOS temperature sensor
+    for medicine and food monitoring”, 2014, 368K AED (108K US$) (Completed)<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>UAEU
+    SURE, “FM Radio Based, Intelligent and Low Cost Speed Limit and Emergency
+    Alert Road Sign System (icFM-TAS)”, 2013, 42K AED (12.5K US$)&nbsp;<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>PI:</span></b><span lang=EN-IN style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial;mso-ansi-language:EN-IN'> </span><span
+    style='font-family:"Baskerville Old Face",serif;mso-bidi-font-family:Arial'>UAEU
+    Seed Money, “Dielectric Sensing based on Energy Tunneling in PCB
+    Microstrips”,&nbsp; 2013, 30K AED (8K US$)<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>Co-PI:</span></b><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial'> ADEC (External Grant), “Design and Fabrication
+    of Novel Ultra Low Power and Reliable CMOS Logic Cells”, 2015, 399K AED
+    (108K US$)<o:p></o:p></span></p>
+    <p class=font8 style='margin:0in;margin-bottom:.0001pt;vertical-align:baseline'><b><span
+    lang=EN-IN style='font-family:"Baskerville Old Face",serif;mso-fareast-font-family:
+    "Times New Roman";mso-bidi-font-family:Arial;color:darkred;mso-ansi-language:
+    EN-IN'>Co-PI:</span></b><span style='font-family:"Baskerville Old Face",serif;
+    mso-bidi-font-family:Arial'> UAEU UPAR, “Enabling Logic Circuits for Zero
+    Power Internet of Everything”, 2015, 398K AED (108K US$)</span><span
+    style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+  <td width=225 valign=top style='width:168.9pt;padding:0in 5.4pt 0in 5.4pt;
+  height:413.05pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Baskerville Old Face",serif'>&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'>&nbsp;<o:p></o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=1313
+ style='width:985.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:69.25pt'>
+  <td width=1313 valign=top style='width:985.1pt;background:#1F4E79;padding:
+  0in 5.4pt 0in 5.4pt;height:69.25pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span style='font-size:14.0pt;
+  font-family:"Baskerville Old Face",serif;color:white'>Address</span></b><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Baskerville Old Face",serif;color:white'>Department of
+  Electrical Engineering,</span><span style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Baskerville Old Face",serif;color:white'>FAST-NUCES,</span><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Baskerville Old Face",serif;color:white'>A.K. Brohi Road, H-11/4</span><span
+  style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-size:12.0pt;
+  font-family:"Baskerville Old Face",serif;color:white'>Tel: +92-(51 )111 128
+  128, Ext:389, Fax (051) 8314119</span><span style='font-family:"Baskerville Old Face",serif'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-family:"Baskerville Old Face",serif'>&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
