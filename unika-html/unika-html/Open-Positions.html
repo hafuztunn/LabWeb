@@ -1,0 +1,315 @@
+<!doctype html>
+<!--
+	Template:	 Unika - Responsive One Page HTML5 Template
+	Author:		 imransdesign.com
+	URL:		 http://imransdesign.com/
+    Designed By: https://www.behance.net/poljakova
+	Version:	1.0	
+-->
+<html lang="en-US">
+	<head>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>RFCS2</title>
+		<meta name="description" content="Unika - Responsive One Page HTML5 Template">
+		<meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
+		<meta name="author" content="imransdesign.com">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Google Fonts  -->
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'> <!-- Body font -->
+		<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'> <!-- Navbar font -->
+
+		<!-- Libs and Plugins CSS -->
+		<link rel="stylesheet" href="inc/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="inc/animations/css/animate.min.css">
+		<link rel="stylesheet" href="inc/font-awesome/css/font-awesome.min.css"> <!-- Font Icons -->
+		<link rel="stylesheet" href="inc/owl-carousel/css/owl.carousel.css">
+		<link rel="stylesheet" href="inc/owl-carousel/css/owl.theme.css">
+
+		<!-- Theme CSS -->
+        <link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/mobile.css">
+
+		<!-- Skin CSS -->
+		<link rel="stylesheet" href="css/skin/cool-gray.css">
+        <!-- <link rel="stylesheet" href="css/skin/ice-blue.css"> -->
+        <!-- <link rel="stylesheet" href="css/skin/summer-orange.css"> -->
+        <!-- <link rel="stylesheet" href="css/skin/fresh-lime.css"> -->
+        <!-- <link rel="stylesheet" href="css/skin/night-purple.css"> -->
+
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    <style>
+      /* Styles for desktop */
+      table {
+        width: 100%;
+        border-radius: 5%;
+      }
+
+      th {
+          background-color: #363940;
+          color: #f9f9f9;
+          text-align: center;
+          border: solid black 2px;
+          padding: 10px;
+          border-radius: 5px;
+          margin-bottom: 50px;
+      } 
+  
+      td {
+        padding: 10px;
+        border: none;
+        width: 100%;
+        border-radius: 10px;
+      }
+
+     
+      .details-dropdown {
+        display: none;
+        background-color: transparent;
+        padding: 5%;
+        width: 100%;
+      }
+  
+      .details-dropdown > p {
+        background-color: transparent;
+        padding: 3%;
+        width: 100%;
+      }
+
+      .clickable-row {
+          cursor: pointer;
+          border: solid gray 1px;
+          border-radius: 10px;
+      }
+  
+      .clickable-row:hover {
+          background-color: lightgrey;
+          transition: background-color 0.5s;
+      }
+  
+      .clickable-row.active {
+          animation: slide-in 3s ease-in-out;
+      }
+  
+      .div_table {
+          min-height: 500px;
+          padding: 5%;
+          margin-top: 5%;
+      }
+  
+      .details-row.active {
+          animation: SlideFromRight 0.5s ease-in-out;
+      }
+
+      .details-row.active {
+        animation: slide-in 1s ease-in-out;
+      }
+
+      .details-dropdown.active {
+          animation: slide-in 3s ease-in-out;
+      }
+  
+      /* Styles for mobile */
+      @media only screen and (max-width: 600px) {
+        table {
+          font-size: 12px;
+          position: relative;
+        }
+  
+        th, td {
+          padding: 5px;
+        }
+      }
+  
+       /* Animation */
+    @keyframes slide-in {
+        0% {
+          max-height: 0;
+          opacity: 0;
+        }
+        100% {
+          max-height: 500px; /* Adjust the max-height value as needed */
+          opacity: 1;
+        }
+      }
+
+  @keyframes SlideFromRight {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateY(0%);
+    }
+}
+  
+      /* Styles for dropdown */
+      .active .details-dropdown {
+        display: table-row;
+      }
+    </style>
+        
+
+	</head>
+
+    <body data-spy="scroll" data-target="#main-navbar">
+        <div class="page-loader"></div>  <!-- Display loading image while page loads -->
+    	<div class="body">
+        
+            <!--========== BEGIN HEADER ==========-->
+            <header id="header" class="header-main">
+
+                <!-- Begin Navbar -->
+                <nav id="main-navbar"  class="navbar navbar-default navbar-fixed-top" role="navigation"> <!-- Classes: navbar-default, navbar-inverse, navbar-fixed-top, navbar-fixed-bottom, navbar-transparent. Note: If you use non-transparent navbar, set "height: 98px;" to #header -->
+
+                  <div  class="container">
+
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      
+                      <a href="index.html"><img src="img/image003-removebg-preview.png" style="margin-bottom: 10px; padding: auto; max-height: 75px; max-width: 250px;"></img></a>
+                      
+
+                    </div>
+
+                      <!-- Collect the nav links, forms, and other content for toggling -->
+                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a class="page-scroll" href="body">Home</a></li>
+                            <li><a class="page-scroll" href="#about-section">About</a></li>
+                            <li><a class="page-scroll" href="#services-section">Services</a></li>
+                            <li><a class="page-scroll" href="#portfolio-section">Works</a></li>
+                            <li><a class="page-scroll" href="#team-section">Team</a></li>                            
+                            <li><a class="page-scroll" href="#prices-section">Prices</a></li>
+                            <li><a class="page-scroll" href="#contact-section">Contact</a></li>
+                        </ul>
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.container -->
+                </nav>
+                      
+
+            </header>
+            <!-- ========= END HEADER =========-->
+            <div class="div_table">
+              <table>
+                <tr>
+                  <th>Job Title</th>
+                </tr>
+                <td colspan="1"></td>
+                <tr class="clickable-row">
+                  <td>Job Title 1</td>
+                </tr>
+                <tr class="details-row">
+                  <td colspan="1">
+                    <div class="details-dropdown">
+                      <p>Job details for Job Title 1</p>
+                      <p>Additional information goes here...</p>
+                    </div>
+                  </td>
+                </tr>
+                <tr class="clickable-row">
+                  <td>Job Title 2</td>
+                </tr>
+                <div class="details">
+                <tr class="details-row">
+                  <td colspan="1">
+                    <div class="details-dropdown">
+                      <p>Job details for Job Title 2</p>
+                      <p>Additional information goes here...</p>
+                    </div>
+                  </td>
+                </tr>
+                
+                </div>
+                <!-- Add more job listings rows as needed -->
+              </table>
+            </div>
+                
+       <!-- Begin footer -->
+       <footer class="text-off-white">
+            
+        <div class="footer-top">
+            <div class="container">
+                <div class="row wow bounceInLeft" data-wow-delay="0.4s">                    
+                    <div class="col-sm-12 col-md-4">
+                        <h4>Address</h4>
+                        <div class="single-tweet">
+                            <div class="tweet-content">Department of Electrical Engineering</div>
+                            <div class="tweet-date">FAST-NUCES</div>
+                        </div>
+                        <div class="single-tweet">
+                            <div class="tweet-content">A.K. Brohi Road, H-11/4</div>
+                            <div class="tweet-date">Tel: +92-(51 )111 128 128, Ext:389, Fax (051) 8314119</div>
+                        </div>
+                    </div>
+                    
+                </div> <!-- /.row -->
+            </div> <!-- /.container -->
+        </div>
+        
+        <div class="footer">
+            <div class="container text-center wow fadeIn" data-wow-delay="0.4s">
+                <p class="copyright">Copyright &copy; 2015 - Designed By <a  class="theme-author">Sameer Liaquat Khizer Tariq</a> &amp; Developed by <a  class="theme-author">Muhammad Abdullah</a></p>
+            </div>
+        </div>
+
+    </footer>
+    <!-- End footer -->
+
+    <a href="#" class="scrolltotop"><i class="fa fa-arrow-up"></i></a> <!-- Scroll to top button -->
+                                      
+</div><!-- body ends -->
+
+
+<script>
+  // Add click event listener to the clickable rows
+  var rows = document.getElementsByClassName('clickable-row');
+  for (var i = 0; i < rows.length; i++) {
+    rows[i].addEventListener('click', function() {
+      var nextRow = this.nextElementSibling;
+      if (nextRow.classList.contains('details-row')) {
+        nextRow.classList.toggle('active');
+      }
+    });
+  }
+</script>
+
+
+
+<!-- Plugins JS -->
+<script src="inc/jquery/jquery-1.11.1.min.js"></script>
+<script src="inc/bootstrap/js/bootstrap.min.js"></script>
+<script src="inc/owl-carousel/js/owl.carousel.min.js"></script>
+<script src="inc/stellar/js/jquery.stellar.min.js"></script>
+<script src="inc/animations/js/wow.min.js"></script>
+<script src="inc/waypoints.min.js"></script>
+<script src="inc/isotope.pkgd.min.js"></script>
+<script src="inc/classie.js"></script>
+<script src="inc/jquery.easing.min.js"></script>
+<script src="inc/jquery.counterup.min.js"></script>
+<script src="inc/smoothscroll.js"></script>
+
+<!-- Theme JS -->
+<script src="js/theme.js"></script>
+
+</body> 
+
+    
+</html>
